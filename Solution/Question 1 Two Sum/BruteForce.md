@@ -1,6 +1,6 @@
 
 
-# Question 1
+# Brute Force Solution
 
 It is obvious that the problem can be solved by a brute force method. So this is what comes into my mind first:
 
