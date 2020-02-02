@@ -35,5 +35,6 @@ class Solution(object):
                         if Index1 != Index2:
                             return [Index1,Index2]
 ```
-
-This solution is less straightforwawrd to see through, but it avoid the problem of two same numbers in the list.
+Performance of this method is as follow:
+Runtime: 5320 ms, faster than 10.42% of Python online submissions for Two Sum.
+Memory Usage: 12.6 MB, less than 80.48% of Python online submissions for Two Sum.
